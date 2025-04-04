@@ -9,4 +9,4 @@ Instalar AIRFLOW en Windows
 
 
 
-Se habilita la opcion de subsistema de windows para linux
+Se habilita la opcion de subsistema de windows para linux...
