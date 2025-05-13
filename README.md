@@ -16,6 +16,7 @@ Se habilita la opcion de subsistema de windows para linux...
 descargamos ubuntu en la microsoft store
 
 iniciamos el ubuntu y esperamos hasta que inicie 
+
 ![image](https://github.com/user-attachments/assets/b9fe147e-801f-47b9-bd54-b56be4902dab)
 
 despues de un tiempo ya estamos en esto
